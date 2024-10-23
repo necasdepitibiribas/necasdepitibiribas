@@ -1,4 +1,9 @@
-## Hi there 👋
+# Bem vindo ao meu perfil 👋
+
+Meu nome é **José Eduardo Paulino Camargo**
+
+* Sou aluno da Escola Estadual João Jorge Marmorato.
+* va
 
 <!--
 **necasdepitibiribas/necasdepitibiribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

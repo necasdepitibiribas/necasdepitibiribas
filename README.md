@@ -3,7 +3,12 @@
 Meu nome é **José Eduardo Paulino Camargo**
 
 * Sou aluno da Escola Estadual João Jorge Marmorato.
-* va
+* Estou estudando em um curso com base na liguagem javascript, na biblioteca p5js, fornecido pela plataforma aluraStart.
+* Utilizo este espaço para a organização e compartilhamento dos projetos desenvolvidos em sala de aula com professor.
+* Eu trabalho todos os dias após o periodo escolar em uma papelaria.
+
+  ### Meu Contato
+  00001119661651sp@al.educacao.sp.gov.br
 
 <!--
 **necasdepitibiribas/necasdepitibiribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
